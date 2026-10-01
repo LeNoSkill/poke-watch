@@ -1,19 +1,19 @@
 {
   "initialized": true,
   "products": {
-    "10895493071187": {
-      "title": "🇫🇷 Pokémon TCG – Display Mini Tin 30ᵉ Anniversaire ✨🎉",
-      "handle": "display-mini-tin-pokemon-30e-anniversaire-fr",
-      "available": false,
-      "price": "0.00",
-      "url": "https://belgiumpokecenter.com/products/display-mini-tin-pokemon-30e-anniversaire-fr"
-    },
     "10895480815955": {
       "title": "🇫🇷 Pokémon TCG – Bundle 6 Boosters 30ᵉ Anniversaire ✨🎉",
       "handle": "bundle-6-boosters-pokemon-30e-anniversaire-fr",
       "available": false,
-      "price": "0.00",
+      "price": "999.99",
       "url": "https://belgiumpokecenter.com/products/bundle-6-boosters-pokemon-30e-anniversaire-fr"
+    },
+    "10895493071187": {
+      "title": "🇫🇷 Pokémon TCG – Display Mini Tin 30ᵉ Anniversaire ✨🎉",
+      "handle": "display-mini-tin-pokemon-30e-anniversaire-fr",
+      "available": false,
+      "price": "999.99",
+      "url": "https://belgiumpokecenter.com/products/display-mini-tin-pokemon-30e-anniversaire-fr"
     },
     "10745060950355": {
       "title": "[FR] Pokémon – Pokébox 30ᵉ Anniversaire Nymphali-ex & Amphinobi-ex ✨🎉",

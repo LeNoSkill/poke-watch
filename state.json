@@ -1,6 +1,34 @@
 {
   "initialized": true,
   "products": {
+    "10992047227219": {
+      "title": "🇫🇷 Pokémon TCG – Coffret Collection Premium Métamorph 30ᵉ Anniversaire ✨🟣",
+      "handle": "coffret-premium-metamorph-pokemon-30e-anniversaire-fr",
+      "available": false,
+      "price": "99.99",
+      "url": "https://belgiumpokecenter.com/products/coffret-premium-metamorph-pokemon-30e-anniversaire-fr"
+    },
+    "10992055976275": {
+      "title": "🇫🇷 Pokémon TCG – Coffret Collection Figurine Mewtwo 30ᵉ Anniversaire ✨🔮",
+      "handle": "coffret-figurine-mewtwo-pokemon-30e-anniversaire-fr",
+      "available": false,
+      "price": "89.99",
+      "url": "https://belgiumpokecenter.com/products/coffret-figurine-mewtwo-pokemon-30e-anniversaire-fr"
+    },
+    "10992061710675": {
+      "title": "🇫🇷 Pokémon TCG – Coffret Collection Figurine Mew 30ᵉ Anniversaire ✨🌸",
+      "handle": "coffret-figurine-mew-pokemon-30e-anniversaire-fr",
+      "available": false,
+      "price": "89.99",
+      "url": "https://belgiumpokecenter.com/products/coffret-figurine-mew-pokemon-30e-anniversaire-fr"
+    },
+    "10744790384979": {
+      "title": "🇫🇷 Pokémon TCG – Deck Combat 30ᵉ Anniversaire Mentali-ex ou Noctali-ex ✨🌙",
+      "handle": "deck-combat-pokemon-30e-anniversaire-mentali-ex-noctali-ex-fr",
+      "available": false,
+      "price": "44.99",
+      "url": "https://belgiumpokecenter.com/products/deck-combat-pokemon-30e-anniversaire-mentali-ex-noctali-ex-fr"
+    },
     "10895480815955": {
       "title": "🇫🇷 Pokémon TCG – Bundle 6 Boosters 30ᵉ Anniversaire ✨🎉",
       "handle": "bundle-6-boosters-pokemon-30e-anniversaire-fr",
